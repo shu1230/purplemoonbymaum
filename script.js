@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
 
     // Firebase 데이터베이스 URL 설정 (슬래시 오타 수정)
-    const DB_API_URL = "https://purplemoon-59660-default-rtdb.asia-southeast1.firebasedatabase.app/messages.js";
+    const DB_API_URL = "https://purplemoon-7286d-default-rtdb.asia-southeast1.firebasedatabase.app/messages.js";
 
     // 데이터가 비어있거나 에러 발생 시 사용할 초기 기본 메시지
     const initialMessages = [
